@@ -11,35 +11,33 @@ One instance in the corpus looks like this:
 
 ```
 {
-    u 'confidence': 0.756291466076927,
-        u 'context': [u '\u2018 Bless you , Peggy .',
-            u "Of course I wo n't go climbing hills,\u2019 Beth assured her with a light peck on the cheek to show that she was not annoyed at the girl 's being so forward .",
-            u "With that , Beth and her son went hand in hand out of the house and down the street , the boy 's constant chatter filtering back to the watching maid and causing her to smile .",
-            u '\u2018 Have a good time!\u2019 she called out , over the hustle and bustle of passing carriages .',
-            u "Beth 's smile in return gladdened the girl ."
+    u 'confidence': 1.0,
+        u 'context': [u 'They were not .',
+            u 'Emboldened by an alliance with Britain made in 1902 , Japan attacked Russian forces in January 1904 and proceeded to inflict a series of devastating defeats upon her by land and sea .',
+            u 'In Russia the war aroused no more than a brief flicker of patriotic enthusiasm : years of nationalist propaganda under the last two tsars failed to bear fruit .',
+            u 'The war was widely regarded , not without justice , as the product of intrigue at court and among a handful of entrepreneurs .',
+            u 'Mobilization was unpopular : there was serious disaffection within the armed forces , dramatically highlighted by the mutiny on the battleship Potemkin in June 1905 .'
         ],
-        u 'document_id': u 'FPK',
-        u 'genre': u 'W fict prose',
-        u 'id': 12347,
-        u 'idiom': u 'go hand in hand',
-        u 'judgment_count': 4,
+        u 'document_id': u 'EA6',
+        u 'genre': u 'W ac:humanities arts',
+        u 'id': 12366,
+        u 'idiom': u 'bear fruit',
+        u 'judgment_count': 3,
         u 'label': u 'i',
         u 'label_distribution': {
             u '?': 0.0,
             u 'f': 0.0,
-            u 'i': 0.756291466076927,
-            u 'l': 0.24370853392307304,
+            u 'i': 1.0,
+            u 'l': 0.0,
             u 'o': 0.0
         },
         u 'non_standard_usage_explanations': [],
         u 'offsets': [
-            [29, 33],
-            [34, 38],
-            [39, 41],
-            [42, 46]
+            [148, 152],
+            [153, 158]
         ],
-        u 'sentence_no': u '2494',
-        u 'split': 'training',
-        u 'variant_type': u 'inflection'
+        u 'sentence_no': u '1592',
+        u 'split': 'test',
+        u 'variant_type': u 'identical'
 }
 ```
