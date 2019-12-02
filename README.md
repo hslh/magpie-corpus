@@ -9,7 +9,8 @@ The corpus is in [JSON Lines](http://jsonlines.org/) format, so it is easy to us
 ## Format
 One instance in the corpus looks like this:
 
-```{
+```
+{
     u 'confidence': 0.756291466076927,
         u 'context': [u '\u2018 Bless you , Peggy .',
             u "Of course I wo n't go climbing hills,\u2019 Beth assured her with a light peck on the cheek to show that she was not annoyed at the girl 's being so forward .",
